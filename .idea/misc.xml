@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/dvpsh/AndroidStudioProjects/CourseSelection/app/src/main/res/layout/activity_choose_class.xml" value="0.228125" />
         <entry key="..\:/Users/dvpsh/AndroidStudioProjects/CourseSelection/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dvpsh/AndroidStudioProjects/CourseSelection/app/src/main/res/layout/activity_main_class_list.xml" value="0.33" />
       </map>
     </option>
   </component>
