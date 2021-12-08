@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CourseSelection">
         <activity
+            android:name=".Summary"
+            android:exported="false" />
+        <activity
             android:name=".ChooseClass"
             android:exported="false" />
         <activity
